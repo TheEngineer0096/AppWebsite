@@ -155,14 +155,14 @@ flex: 0 0 45%;
 
 .date {
 	position: absolute;
-	top: 90px;
+	top: 60px;
 	left: 11%;
 }
 
 .time {
 	position: absolute;
-	bottom: 30px;
-	right: 10%;
+	bottom: 10px;
+	right: 9.5%;
 }
 
 
